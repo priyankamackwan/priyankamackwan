@@ -2,7 +2,7 @@
 <h2 align="center">Full Stack Developer</h2>
 <h3 align="center">PHP, Codeigniter, Laravel, React.JS, AngularJs, Node.JS Expert</h3>
 <p>&nbsp;</p>
-<p>More than 8+ years of experience in website applications like PHP, Codeigniter, Laravel, Yii, AWS setup, Godaddy, Hostgator, Payment gateways, Authorize.net, Stripe, CoinPayments.net, etc, MySQL with Strong SQL, AngularJs, Node.js, WordPress, Woo Commerce, WordPress Plugin Development/Customization, Optimization of websites and Basic SEO, HTML5, JQuery, CSS3, SAAS, PSD To HTML, Logo Design, etc. <br /> <br /> Different types of websites like Blogs, E-Commerce Websites, Bit-coin Websites, Forums, Social networking, and Booking systems. <br /> <br /> I have created applications for smart TVs and wearables like the Fitbit Ionic smartwatch. <br /> <br /> <strong>My Expertise :</strong></p>
+<p>More than 15+ years of experience in website applications like PHP, Codeigniter, Laravel, Yii, AWS setup, Godaddy, Hostgator, Payment gateways, Authorize.net, Stripe, CoinPayments.net, etc, MySQL with Strong SQL, AngularJs, Node.js, WordPress, Woo Commerce, WordPress Plugin Development/Customization, Optimization of websites and Basic SEO, HTML5, JQuery, CSS3, SAAS, PSD To HTML, Logo Design, etc. <br /> <br /> Different types of websites like Blogs, E-Commerce Websites, Bit-coin Websites, Forums, Social networking, and Booking systems. <br /> <br /> I have created applications for smart TVs and wearables like the Fitbit Ionic smartwatch. <br /> <br /> <strong>My Expertise :</strong></p>
 <ul>
 <li>PHP, Codeigniter, WordPress, AngularJs, Node.js, AWS, Mobile responsive websites</li>
 <li>Different WEB Technologies HTML5, SAAS, CSS3, XML, JQuery/ Json, AJAX, Bootstrap/HTML5</li>
